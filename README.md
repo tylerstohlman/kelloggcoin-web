@@ -8,7 +8,7 @@
 - Open the `config/routes.rb` file and note that a resource for *transactions* is already set up for you
 - Open the `app/controllers` folder and note that a controller for *transactions* is already set up for you
 - Open `app/views/transactions/index.html.erb` and modify the code in two steps, as described below
-
+ 
 ## Goals
 
 ### Step 1
